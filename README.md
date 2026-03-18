@@ -11,7 +11,7 @@
 
 This project demonstrates a **real-time data analytics pipeline** designed to simulate, process, and visualize live vehicle data.
 
-It showcases how data flows through an end-to-end system — from **real-time generation to analytics consumption** — using modern data engineering tools and scalable design patterns.
+It showcases how data flows through an end-to-end system  from **real-time generation to analytics consumption**  using modern data engineering tools and scalable design patterns.
 
 The objective was not just to build a working system, but to understand **how real-world streaming architectures operate**, focusing on clarity, modularity, and extensibility.
 
@@ -227,4 +227,3 @@ Set periodic refresh for near real-time analytics.
 
 ---
 
-If you want, I can also **make this more “resume-optimized” (ATS-focused)** or **add architecture diagram + badges (very high impact on GitHub)**.

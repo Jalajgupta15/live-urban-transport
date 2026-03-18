@@ -225,9 +225,6 @@ Set periodic refresh for near real-time analytics.
 
 **Jalaj Gupta**
 
-* GitHub: [https://github.com/jalajgupta15](https://github.com/jalajgupta15)
-* Live Demo: [https://jalajgupta15.github.io/live-urban-transport/](https://jalajgupta15.github.io/live-urban-transport/)
-
 ---
 
 If you want, I can also **make this more “resume-optimized” (ATS-focused)** or **add architecture diagram + badges (very high impact on GitHub)**.
